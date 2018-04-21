@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="JOGAMP">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/JOGAMP" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="http://jogamp.org/deployment/jogamp-next/javadoc/jogl/javadoc/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/JOGAMP" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/JOGAMP" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/JOGAMP" recursive="false" type="SOURCES" />
+  </library>
+</component>
